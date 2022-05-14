@@ -971,7 +971,7 @@
 /* --------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 .header-top {
-      background-image: url("../Images/banner1.png");
+      background-image: url('../Images/banner1.png');
       background-size: 100% 100%;
       background-repeat: no-repeat;
       padding-bottom: 90px;
