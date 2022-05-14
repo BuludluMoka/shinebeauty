@@ -215,7 +215,7 @@
      color: #114c7d;
      font-weight: 400;
      font-size: 28px;
-     background-image: url('/Images/banner2.png');
+     background-image: url('/images/banner2.png');
      background-repeat: no-repeat;
      padding-left: 55px;
      letter-spacing: -0.5px;
@@ -909,9 +909,7 @@
      display: inline-block;
      vertical-align: middle;
 }
- .main-menu ul>li:nth-child (6) {
-     padding-right: 0px;
-}
+ 
  .nav>li {
      position: inherit;
      display: inline-block;
@@ -973,7 +971,7 @@
 /* --------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 .header-top {
-      background-image: url("/images/banner1.png");
+      background-image: url("/Images/banner1.png");
       background-size: 100% 100%;
       background-repeat: no-repeat;
       padding-bottom: 90px;
