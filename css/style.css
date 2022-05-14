@@ -215,7 +215,7 @@
      color: #114c7d;
      font-weight: 400;
      font-size: 28px;
-     background-image: url('Images/banner2.png');
+     background-image: url("../Images/banner2.png");
      background-repeat: no-repeat;
      padding-left: 55px;
      letter-spacing: -0.5px;
@@ -971,7 +971,7 @@
 /* --------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 .header-top {
-      background-image: url("Images/banner1.png");
+      background-image: url("../Images/banner1.png");
       background-size: 100% 100%;
       background-repeat: no-repeat;
       padding-bottom: 90px;
