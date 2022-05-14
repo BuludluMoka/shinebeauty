@@ -972,12 +972,12 @@
  
 /* --------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
- .header-top {
-     
-     background-size: 100% 100%;
-     background-repeat: no-repeat;
-     padding-bottom: 90px;
-}
+.header-top {
+      background-image: url("/images/banner1.png");
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      padding-bottom: 90px;
+ }
  .header {
      position: absolute;
      z-index: 999;
