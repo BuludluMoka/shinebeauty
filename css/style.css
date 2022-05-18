@@ -203,27 +203,7 @@
  .white_heading_main h2 {
      color: #fff;
 }
- .small_main_heading {
-     margin-top: 25px;
-     float: left;
-     width: 100%;
-     border-bottom: solid rgba(0, 0, 0, 0.07) 1px;
-     margin-bottom: 25px;
-}
- .small_main_heading h2 {
-     padding: 2px 0 20px 0;
-     color: #114c7d;
-     font-weight: 400;
-     font-size: 28px;
-     background-image: url('../images/banner2.png');
-     background-repeat: no-repeat;
-     padding-left: 55px;
-     letter-spacing: -0.5px;
-}
- .small_main_heading h2 strong {
-     color: #38c8a8;
-     font-weight: 600;
-}
+
  .main_bt {
      background: #000;
      color: #fff;
@@ -1069,7 +1049,7 @@
 .Best .titlepage h2::before {
      position: absolute;
 content: "";
-background: #ebbf60;
+background: rgba(220,199,180,255);
 border-radius: 20px;
 width: 20px;
 height: 20px;
@@ -1080,7 +1060,7 @@ margin-left: -37px;
  .Best .titlepage h2::after {
      position: absolute;
 content: "";
-background: #ebbf60;
+background: rgba(220,199,180,255);
 border-radius: 20px;
 width: 20px;
 height: 20px;
@@ -1098,7 +1078,7 @@ margin-left: 15px;
  
  .best_text a {
 background: #000;
-border: #ebbf60 solid 3px;
+border: #dcc7b4 solid 3px;
 width: 190px;
 padding: 12px 0;
 font-weight: 500;
@@ -1111,7 +1091,7 @@ float: right;
 }
 
  .best_text a:hover {
-     background: #f2740d;
+     background: #dcc7b4;
      color: #fff;
 }
 
@@ -1135,8 +1115,8 @@ background-repeat: no-repeat;
 
 .best_img figure img {
      width: 100%;
-     border: #eec668 solid 31px;
-     border-radius: 258px;
+     border: #dcaf82 solid 31px;
+     border-radius: 58px;
 }
 
 .best_img h4 {
@@ -1337,13 +1317,15 @@ margin-bottom: 30px;
  
 /** footer **/
 .footer {
-     background: #eec668;
+     background-image: url("../Images/banner11.png");
+      
+     background-repeat: no-repeat;
      padding-top: 90px;
 }
 .call_now2 h3 {
 font-size: 30px;
 line-height: 40px;
-color: #fff;
+color: rgb(0, 0, 0);
 padding-bottom: 33px;
      
  }
@@ -1371,7 +1353,7 @@ padding-bottom: 33px;
      font-size: 45px;
      line-height: 35px;
      font-weight: bold;
-     color: #fff;
+     color: rgb(0, 0, 0);
 }
  .copyright {
  background:url(../images/cop.jpg);
