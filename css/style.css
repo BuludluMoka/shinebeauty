@@ -971,10 +971,11 @@
 /* --------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 .header-top {
-      background-image: url("../Images/banner1.png");
-      background-size: 100% 100%;
+      background-image: url("../Images/banner11.png");
+      
       background-repeat: no-repeat;
-      padding-bottom: 90px;
+      padding-bottom: 100px;
+      
  }
  .header {
      position: absolute;
