@@ -1335,19 +1335,10 @@ nav.main-menu {
 }
 
 .best_main {
-     margin-bottom: 136px;
+     margin-bottom: 116px;
 }
 
-.croos_rt::after {
-     position: absolute;
-     content: "";
-     width: 1269px;
-     height: 1232px;
-     background: url(../images/croo1.png);
-     top: -5px;
-     left: -80px;
-     background-repeat: no-repeat;
-}
+
 
 .best_img.croos_rt {
      margin-top: 60px;
